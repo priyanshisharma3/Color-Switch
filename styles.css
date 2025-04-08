@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 500px;
+    margin: 100px auto 100px;
+    height: 200px;
+}
+h3{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 10px;
+}
+#beige{
+    background-color: beige;
+}
+#cadetblue{
+    background-color: cadetblue;
+}
+#burlywood{
+    background-color: burlywood;
+}
+#crimson{
+    background-color: crimson;
+}
